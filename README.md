@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sumitmahto77
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @sumitmahto
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on UI development
 - 📫 Reach me : sumitmahto77@gmail.com
 
 <!---
